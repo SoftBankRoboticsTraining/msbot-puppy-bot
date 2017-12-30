@@ -19,7 +19,8 @@ https://pepper-msbot.azurewebsites.net/api/messages?code=e3fa60oaOlabQUptT63DYSW
 ### LUIS Endpoint:
 https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/4e4b1c46-5d6d-4035-9905-eef921df734f?subscription-key=37e463e0ae22427abc606d076dafbdd3&timezoneOffset=-480&verbose=true&spellCheck=true&q= 
 
-### Intent Utterances
+---------------
+## Intent Utterances
 
 ### Start a waterfall conversation:
 hey I like puppies
