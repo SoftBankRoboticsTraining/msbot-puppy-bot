@@ -5,7 +5,8 @@ The sample puppy bot source code referenced in the Pepper ChatBot Documentation 
 Download the emulator, follow the steps outlined here:
 https://docs.microsoft.com/en-us/bot-framework/debug-bots-emulator 
 
-### Bot Constants
+### Bot Constants:
+------------------
 ### Bot Endpoint:
 https://pepper-msbot.azurewebsites.net/api/messages?code=e3fa60oaOlabQUptT63DYSWPxrdG0pS9zFrADLT1xX9iGx6FxAG7pw== 
 
